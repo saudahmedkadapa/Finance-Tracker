@@ -14,7 +14,7 @@ public class Expense {
 
     private Double amount;
     private String category;
-    private LocalDate date;  // ✅ FIXED: Renamed `Date` to `date`
+    private LocalDate date;  
 
     public Expense() {}
 
